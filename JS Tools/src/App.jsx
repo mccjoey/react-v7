@@ -1,6 +1,6 @@
 import React from "react";
 import {render} from "react-dom";
-import Pet from "./Pet";
+import Pet from "./Pet.jsx";
 
 // const App = () => {
 //   return React.createElement("div", {}, [
